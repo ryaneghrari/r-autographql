@@ -1,0 +1,19 @@
+{
+  "name": "r-autogql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "test": "cd output && npm run start"
+  },
+  "author": "Ryan Eghrari",
+  "license": "ISC",
+  "dependencies": {
+    "https-proxy-agent": "^2.2.2",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0"
+  }
+}
