@@ -7,7 +7,10 @@ Do you have REST endpoints you want converted to a GraphQL Server?
 This is for you.
 
 ## Quick Start
+Clone project
+
 Navigate to `./resources.js` and update your resources:
+
 ```
 module.exports = [
   {
