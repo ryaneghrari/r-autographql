@@ -32,10 +32,10 @@ Finally `npm run test` will start the development graphql server.
 
 Editable configuration values: 
 ```
-    project_name: "Example",                  //Name of npm package
-    project_desc: "Example Description",      //Description of npm package
-    health_check: ["/health", "/api/health"], //Static healthcheck routes 
-    port: 3000,                               //Port generated server will listen to 
-    type_outfile: "typeDefs.js",              //Name of file containing type definitions
+    project_name: "Example"                   //Name of npm package
+    project_desc: "Example Description"       //Description of npm package
+    health_check: ["/health", "/api/health"]  //Static healthcheck routes 
+    port: 3000                                //Port generated server will listen to 
+    type_outfile: "typeDefs.js"               //Name of file containing type definitions
     resolver_outfile: "resolvers.js"          //Name of file containing resolvers
 ```
