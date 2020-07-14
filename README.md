@@ -1,4 +1,4 @@
-# Autogql
+# AutoGQL
 
 Generate GraphQL server based on given resources
 
