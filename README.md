@@ -2,8 +2,8 @@
 
 Generate GraphQL server based on given resources
 
-> Do you have REST endpoints you want converted to a GraphQL Server?
-> This is for you.
+Do you have REST endpoints you want converted to a GraphQL Server?
+This is for you.
 
 ![](r-autogql.gif)
 
