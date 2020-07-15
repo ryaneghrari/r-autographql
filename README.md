@@ -2,9 +2,10 @@
 
 Generate GraphQL server based on given resources
 
-Do you have REST endpoints you want converted to a GraphQL Server?
+> Do you have REST endpoints you want converted to a GraphQL Server?
+> This is for you.
 
-This is for you.
+![](r-autogql.gif)
 
 ## Quick Start
 Clone project
@@ -26,6 +27,8 @@ module.exports = [
 ];
 ```
 Next `npm run start` to build a Graphql server which serves the listed resources.
+
+To test locally ensure you have [Docker](https://docs.docker.com/get-docker/) running.
 Finally `npm run test` will start the development graphql server. 
 
 ### Config
