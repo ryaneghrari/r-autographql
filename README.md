@@ -10,6 +10,8 @@ This is for you.
 ## Quick Start
 Clone project
 
+Run `npm install`
+
 Navigate to `./resources.js` and update your resources:
 
 ```
